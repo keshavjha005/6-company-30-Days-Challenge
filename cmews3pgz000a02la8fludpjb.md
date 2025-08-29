@@ -16,26 +16,33 @@ tags: web-development, frontend-development, full-stack-development
 
 Web Development is the process of creating websites or web applications for the internet. It involves designing the structure, appearance, and interactivity of a website.
 
-#### 📌 Types of Web Development:
-
-1. **Frontend**: User-facing side of websites using HTML, CSS, JavaScript.
+* ### 🔹 Types of Web Development
     
-2. **Backend**: Server-side logic, databases (e.g., Node.js, Python, PHP).
+    * **Frontend:** Focuses on the user-facing side of websites using **HTML, CSS, and JavaScript** along with modern frameworks like **React, Angular, or Vue**.
+        
+    * **Backend:** Handles server-side logic, databases, and APIs using technologies such as **Node.js, Express, Python, or PHP**.
+        
+    * **Full Stack:** A combination of both frontend and backend. Popular stacks include the **MERN Stack (MongoDB, Express, React, Node.js)** for building complete, dynamic applications.
+        
     
-3. **Full Stack**: Combination of frontend and backend.
+    ---
     
-
-#### 📌 Features of a Web Developer:
-
-* Proficiency in HTML, CSS, JS
+    ### 📌 Key Skills & Features of a Web Developer
     
-* Debugging and problem-solving skills
-    
-* Familiarity with browser developer tools
-    
-* Use of version control (Git)
-    
-* Knowledge of responsive design and frameworks (Bootstrap, React, Vue)
+    * Strong knowledge of **HTML, CSS, and JavaScript**
+        
+    * Hands-on experience with **React (frontend)** and **Node.js + Express (backend)**
+        
+    * Ability to work with databases like **MongoDB**
+        
+    * Debugging and problem-solving mindset
+        
+    * Proficiency in **browser developer tools**
+        
+    * Familiarity with **version control systems (Git & GitHub)**
+        
+    * Understanding of **responsive design** and modern **UI frameworks (e.g., Bootstrap, Tailwind CSS)**
+        
     
     ![Full Stack Developer](https://www.guvi.in/blog/wp-content/uploads/2024/03/6-2.webp align="left")
     
@@ -113,21 +120,9 @@ Web Development is the process of creating websites or web applications for the 
     
     To understand [how](https://blog.hubspot.com/website/html?hubs_content=blog.hubspot.com/blog/tabid/6307/bid/5847/a-marketer-s-guide-to-html5.aspx&hubs_content-cta=html) HTML has evolved over the years, let’s look at the differences between HTML and HTML5.
     
-
-* ## 📊 HTML vs HTML5 – Comparison
+* ## 📊 HTML vs HTML5 – Comparison  
     
-    | Feature | HTML (Old Versions) | HTML5 |
-    | --- | --- | --- |
-    | **Doctype Declaration** | Long & complicated: `<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" ...>` | Simple: `<!DOCTYPE html>` |
-    | **Multimedia Support** | Needs external plugins (Flash, Silverlight) for audio/video | Native support with `<audio>` and `<video>` tags |
-    | **Graphics & Animations** | Relies on third-party tools like Flash | Built-in `<canvas>` and **SVG** for drawing & animations |
-    | **Storage** | Cookies were mainly used | Local Storage & Session Storage (Web Storage API) |
-    | **Form Features** | Limited input types (`text`, `password`, `radio`, `checkbox`) | New input types like `email`, `date`, `range`, `url`, `color`, etc. |
-    | **APIs Support** | Very limited | Rich APIs – Geolocation, Drag & Drop, Web Workers, WebSockets |
-    | **Semantic Tags** | Mostly `<div>` & `<span>` used for structure | New semantic tags: `<header>`, `<footer>`, `<article>`, `<section>`, `<nav>` |
-    | **Cross-Platform Compatibility** | Mostly desktop-oriented | Designed for **mobile, tablets & responsive** apps |
-    | **Error Handling** | Older browsers show strict errors | HTML5 is more forgiving with errors |
-    | **Performance** | Heavier with external plugins | Faster & lighter (native features, better rendering) |
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1756469826139/4ec982c5-ba52-4a11-8594-32b1bf1eb4ce.png align="left")
     
     ⚡ In short:  
     **HTML4 = static + dependent on plugins**  
@@ -2200,7 +2195,6 @@ git push origin feature-login
         
     * **Time zones**: Use ISO dates; store UTC; format on presentation.
         
-    
 * **Express.js**
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1756465381867/c46cd61d-5dd1-4e14-99ad-e7d398fde070.webp align="center")
@@ -2461,8 +2455,7 @@ git push origin feature-login
     nodemon index.js
     ```
     
-
-* # `Projects Covered`  
+* # `Projects Covered`
     
     * **Taskify** – A full-stack Task Manager (CRUD with authentication, deadlines, and status tracking).
         
@@ -2482,16 +2475,10 @@ git push origin feature-login
         
     * **DevConnect** – Social Media for Developers (profiles, posts, follow system).
         
-    * **Vaultify** – Secure Notes App (authentication, encrypted notes, categories).  
-          
-          
-          
-          
-          
-          
-          
-        ✨ *"Hope you’re enjoying this journey of learning! Keep building, keep growing, and always aim for greatness 🚀. Follow me for more blogs, projects, and tech insights — let’s achieve together!"*  
-          
+    * **Vaultify** – Secure Notes App (authentication, encrypted notes, categories).
+        
+        ✨ *"Hope you’re enjoying this journey of learning! Keep building, keep growing, and always aim for greatness 🚀. Follow me for more blogs, projects, and tech insights — let’s achieve together!"*
+        
         *Follow me -* [https://hashnode.com/@keshavBlog](https://hashnode.com/@keshavBlog)
         
         ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1756469165526/b5566c9f-8661-490f-8c95-818f82a353b5.png align="center")
